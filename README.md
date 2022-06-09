@@ -1,1 +1,1 @@
-# ML-Competitons
+# ML-mini projects
